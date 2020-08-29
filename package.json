@@ -1,0 +1,8 @@
+{
+  "name": "asUtils",
+  "version": "1.0.0",
+  "description": "JS helpers",
+  "main": "src/index.js",
+  "author": "AymaneD",
+  "license": "MIT"
+}
